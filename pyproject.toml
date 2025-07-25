@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers."
 requires-python = ">=3.10"
 # match the style used in the rest of the module
+# drop an unused branch
