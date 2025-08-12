@@ -5,3 +5,4 @@ description = "Zero-config Claude Code setup with enforced task scaffolding, str
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # drop an unused branch
+# avoid re-reading the config on every call
